@@ -1,3 +1,4 @@
+setTimeout(() => {
 const lngs = {
     vn: {
         nativeName: 'VietNam'
@@ -1035,3 +1036,5 @@ $(function () {
             rerender();
         });
 });
+    
+ }, 1000);
