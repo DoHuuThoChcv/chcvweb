@@ -80,7 +80,7 @@ setTimeout(() => {
 
                             //----------------------------- Page Login ------------------------------------
                             login: {
-                                text1: 'Đăng nhập',
+                                text1: 'Đăng nhập123',
                                 text2: 'Tên đăng nhập',
                                 text3: 'Tên đăng nhập không được để trống',
                                 text4: 'Mật khẩu',
