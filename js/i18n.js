@@ -9,7 +9,7 @@ const lngs = {
         nativeName: 'Taiwan'
     }
 };
-
+ // Hello các bạn
 const rerender = () => {
     // start localizing, details:
     // https://github.com/i18next/jquery-i18next#usage-of-selector-function
