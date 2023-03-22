@@ -45,7 +45,7 @@ $(function () {
                         //----------------------------- Menu Navigation ------------------------------
                         menu: {
                             information: 'Thông tin CHCV',
-                            information_sub1: 'Lịch sử hình thành2',
+                            information_sub1: 'Lịch sử hình thành',
                             information_sub2: 'Năng lực phân phối',
                             information_sub3: 'Năng lực sản xuất',
                             information_sub4: 'Quản lý chất lượng',
